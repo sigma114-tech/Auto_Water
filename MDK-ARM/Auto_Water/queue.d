@@ -1,0 +1,15 @@
+auto_water\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+auto_water\queue.o: D:\use_for_learn\C51\ARM\ARMCC\Bin\..\include\stdlib.h
+auto_water\queue.o: D:\use_for_learn\C51\ARM\ARMCC\Bin\..\include\string.h
+auto_water\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+auto_water\queue.o: D:\use_for_learn\C51\ARM\ARMCC\Bin\..\include\stddef.h
+auto_water\queue.o: D:\use_for_learn\C51\ARM\ARMCC\Bin\..\include\stdint.h
+auto_water\queue.o: ../Core/Inc/FreeRTOSConfig.h
+auto_water\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+auto_water\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+auto_water\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+auto_water\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+auto_water\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+auto_water\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+auto_water\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+auto_water\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
