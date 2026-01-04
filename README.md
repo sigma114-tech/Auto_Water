@@ -45,13 +45,15 @@
 ├── Middlewares
 │   └── FreeRTOS          // 已集成，但当前未启用调度器
 
-简单理解就是：
+---
+
+## 简单理解就是：
 
 Hardware：只管“怎么驱硬件”
 
 Application：只管“系统在干什么”
 
-关于 FreeRTOS（重要说明）
+##关于 FreeRTOS（重要说明）
 
 工程中 包含 FreeRTOS 文件，
 但 当前版本未启动调度器（osKernelStart / vTaskStartScheduler 已注释）。
@@ -68,7 +70,7 @@ Application：只管“系统在干什么”
 
 确保在 ISR 中只调用 FromISR 接口
 
-编译 / 下载注意事项
+## 编译 / 下载注意事项
 
 调试接口请使用 SWD
 
@@ -78,7 +80,7 @@ Application：只管“系统在干什么”
 
 或断电重启（这是正常现象）
 
-本工程仅用于 学习与交流，
+## 本工程仅用于 学习与交流，
 不保证适配所有硬件环境。
 
 如果你只是想：
